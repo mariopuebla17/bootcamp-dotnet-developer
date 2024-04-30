@@ -1,2 +1,2 @@
 # bootcamp-dotnet-developer
-Bootcamp realizado no DIO
+Série de exemplos aprendidos no Bootcamp realizado no DIO
