@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rBbjSQZiHVRdyFfN9HlJw0kMZcW6W1aByvruwkqE9kquvwztBlRNOoYOHQUxsqy4pk3g6zT55q8mCKJAW12PDg==",
+  "dgSpecHash": "3V/EcPIPwrx3eu39Ta8uKG8GWBIBe5KibkbYsfBFmuPuSdM19hKJOmFWg7MqP1cVbSOUinyzEIzCfb2QRtxUVA==",
   "success": true,
-  "projectFilePath": "D:\\PROJETOS\\exemplo-explorando\\exemplo-explorando.csproj",
+  "projectFilePath": "D:\\PROJETOS\\bootcamp-dotnet-developer\\exemplo-explorando\\exemplo-explorando.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

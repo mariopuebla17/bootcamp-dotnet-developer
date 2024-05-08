@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJETOS\\exemplo-explorando\\exemplo-explorando.csproj",
+      "projectUniqueName": "D:\\PROJETOS\\bootcamp-dotnet-developer\\exemplo-explorando\\exemplo-explorando.csproj",
       "projectName": "exemplo-explorando",
-      "projectPath": "D:\\PROJETOS\\exemplo-explorando\\exemplo-explorando.csproj",
+      "projectPath": "D:\\PROJETOS\\bootcamp-dotnet-developer\\exemplo-explorando\\exemplo-explorando.csproj",
       "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJETOS\\exemplo-explorando\\obj\\",
+      "outputPath": "D:\\PROJETOS\\bootcamp-dotnet-developer\\exemplo-explorando\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
